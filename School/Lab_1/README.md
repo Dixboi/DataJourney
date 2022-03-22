@@ -93,9 +93,6 @@ plt.show()
 # Saving Cleaned Dataset
 
 ```
-data.to_csv('balanced_house_prices.csv')
-```
-```
 data.to_csv('cleaned_house_prices.csv')
 ```
 
