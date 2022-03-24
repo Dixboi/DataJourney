@@ -66,7 +66,7 @@ data[features_wmiss] = imp.fit_transform(data[features_wmiss])
 data[features_wmiss].info()
 ```
 
-The `imp = SI(missing_values=np.nan, strategy='constant', fill_value=0)` was used because maybe the feature is not applicable on that particular id/user he/she does not have any.
+The `imp = SI(missing_values=np.nan, strategy='constant', fill_value=0)` was used because maybe the feature is not applicable on that particular id/user or he/she does not have any.
 
 Now, the `fea_2` features doesn't have any missing values.
 
