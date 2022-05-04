@@ -2,8 +2,6 @@
 
 **All of my codes here are for practice. I am not sure if what I am doing is correct but I will based all of it from my tutorials and lessons.** 
 
-**NOTE:** the main code will be stored in a readme file so that it can be seen easily
-
 ### My notes:
 1. [From machine learning course on Kaggle](https://github.com/Dixboi/DataAnalysisJourney/blob/main/MachineLearningNotebookNotes.ipynb)
 2. [From spaceship titanic beginner competition](https://github.com/Dixboi/DataAnalysisJourney/blob/main/spaceship-titanic-a-complete-guide.ipynb)
