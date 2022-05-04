@@ -2,11 +2,11 @@
 
 **All of my codes here are for practice. I am not sure if what I am doing is correct but I will based all of it from my tutorials and lessons.** 
 
-### My notes:
+### Notes:
 1. [From machine learning course on Kaggle](https://github.com/Dixboi/DataAnalysisJourney/blob/main/MachineLearningNotebookNotes.ipynb)
 2. [From spaceship titanic beginner competition](https://github.com/Dixboi/DataAnalysisJourney/blob/main/spaceship-titanic-a-complete-guide.ipynb)
 
-### My Resources:
+### Resources:
 1. [train_test_split](https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/)
 2. [Logistic Regression](https://www.upgrad.com/blog/logistic-regression-for-machine-learning/)
 3. [Multinomial Logistic Regression](https://machinelearningmastery.com/multinomial-logistic-regression-with-python/)
