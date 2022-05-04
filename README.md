@@ -6,6 +6,7 @@
 
 My notes:
 1. [From machine learning course on Kaggle](https://github.com/Dixboi/DataAnalysisJourney/blob/main/MachineLearningNotebookNotes.ipynb)
+2. [From spaceship titanic beginner competition](https://github.com/Dixboi/DataAnalysisJourney/blob/main/spaceship-titanic-a-complete-guide.ipynb)
 
 **My Resources:**
 1. [train_test_split](https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/)
