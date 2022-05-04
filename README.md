@@ -4,6 +4,8 @@
 
 **NOTE:** the main code will be stored in a readme file so that it can be seen easily
 
+My notes:
+1. [From machine learning course on Kaggle](https://github.com/Dixboi/DataAnalysisJourney/blob/main/MachineLearningNotebookNotes.ipynb)
 
 **My Resources:**
 1. [train_test_split](https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/)
