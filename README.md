@@ -19,3 +19,5 @@
 10. [Showing all columns in pandas dataframe](https://www.geeksforgeeks.org/how-to-show-all-columns-of-a-pandas-dataframe/)
 11. [Changing the data type of a feature](https://www.geeksforgeeks.org/change-the-data-type-of-a-column-or-a-pandas-series/)
 12. [Filling missing values](https://www.geeksforgeeks.org/working-with-missing-data-in-pandas/)
+13. [Scatter plot in Linear Regression](https://www.tutorialspoint.com/linear-regression-with-matplotlib-numpy)
+14. [Adjusting the marker size in a scatter plot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html)
