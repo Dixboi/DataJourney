@@ -21,3 +21,5 @@
 12. [Filling missing values](https://www.geeksforgeeks.org/working-with-missing-data-in-pandas/)
 13. [Scatter plot in Linear Regression](https://www.tutorialspoint.com/linear-regression-with-matplotlib-numpy)
 14. [Adjusting the marker size in a scatter plot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html)
+15. [Select rows with specific](https://www.geeksforgeeks.org/select-rows-that-contain-specific-text-using-pandas/)
+16. [Combine pandas dataframe](https://www.geeksforgeeks.org/how-to-combine-two-dataframe-in-python-pandas/)
