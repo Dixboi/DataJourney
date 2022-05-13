@@ -3,6 +3,11 @@
 A repository where I practice data science and machine learning concepts.
 
 ## Projects
+
+### Nutrition
+A project where I applied Linear Regression, data correlation, and visualization. Also in this project, I analyzed the nutrients present in a food to know which nutrients are abundant on foods that are good for people with ulcer. <br>
+**Key Learnings**: *Linear Regression*, *visualization*, *correlation*, *acquiring domain knowledge*, *analysis*, *data cleaning*
+
 ### Fetal Health
 A classification project to determine the health of a fetus. In this project, I use permutation importance to know which features are useful for classifying the fetus health and applied Logistic Regression for prediction. <br>
 **Key Learnings**: *classification*, *baseline model*, *permutation importance*, *Logistic Regression*
