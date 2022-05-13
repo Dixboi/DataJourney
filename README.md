@@ -5,7 +5,7 @@ A repository where I practice data science and machine learning concepts.
 ## Projects
 ### Fetal Health
 A classification project to determine the health of a fetus. In this project, I use permutation importance to know which features are useful for classifying the fetus health and applied Logistic Regression for prediction. <br>
-**Key Learnings**: *baseline model*, *permutation importance*, *Logistic Regression*
+**Key Learnings**: *classification*, *baseline model*, *permutation importance*, *Logistic Regression*
 
 ## Notes:
 1. [From machine learning course on Kaggle](https://github.com/Dixboi/DataAnalysisJourney/blob/main/MachineLearningNotebookNotes.ipynb)
