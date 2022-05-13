@@ -10,7 +10,7 @@ A project where I applied regression, data correlation, and visualization. In th
 
 ### Fetal Health
 A classification project to determine the health of a fetus. In this project, I use permutation importance to know which features are useful for classifying the fetus health and applied Logistic Regression for prediction. <br>
-**Key Learnings**: *classification*, *baseline model*, *permutation importance*, *Logistic Regression*
+**Key Learnings**: *Logistic Regression*, *classification*, *baseline model*, *permutation importance*
 
 ## Notes:
 1. [From machine learning course on Kaggle](https://github.com/Dixboi/DataAnalysisJourney/blob/main/MachineLearningNotebookNotes.ipynb)
