@@ -5,7 +5,7 @@ A repository where I practice data science and machine learning concepts.
 ## Projects
 
 ### Nutrition
-A project where I applied Linear Regression, data correlation, and visualization. Also in this project, I analyzed the nutrients present in a food to know which nutrients are abundant on foods that are good for people with ulcer. <br>
+A project where I applied regression, data correlation, and visualization. In this project, I did three tasks. (1) Predicted calories using fat, cholesterol, and carbohydrate by using linear regression. (2) Analyzed the nutrients present in a food to know which nutrients are abundant on foods that are good for people with ulcer. (3)  Selected foods with high protein per calorie and analyzed its correlation on fat and cholesterol<br>
 **Key Learnings**: *Linear Regression*, *visualization*, *correlation*, *acquiring domain knowledge*, *analysis*, *data cleaning*
 
 ### Fetal Health
