@@ -1,6 +1,8 @@
 # Data
 
-A repository where I practice data science and machine learning concepts.
+<p align="center">
+  <a href="https://github.com/Dixboi/DataJourney/blob/main/snippets.md">My Snippets</a> | <a href="https://github.com/Dixboi/DataJourney/blob/main/MachineLearningNotebookNotes.ipynb">Machine Learning Notes</a> | <a href="https://github.com/Dixboi/DataJourney/tree/main/Projects">My Projects</a>
+</p>
 
 ## Projects
 
