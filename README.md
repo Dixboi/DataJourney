@@ -6,6 +6,11 @@
 
 ## Projects
 
+### Identifying Ulothrix
+A classification project to identify if a microorganism is an Ulothrix or not. Here, I applied balancing techniques such as undersampling and oversampling. Additionally, I applied stacking where I used Random Forest Classifier and XGBoost as base classifiers and Logistic Regression for the meta-classifier. <br>
+**Key Learnings**: *Ensemble Models*, *Stacking*, *oversampling*, *undersampling* <br>
+**Link**: [Kaggle Notebook](https://www.kaggle.com/code/raimondextervinluan/microbes-notebook-ulothrix-or-nah#Stacked-Model)
+
 ### Nutrition
 A project where I applied regression, data correlation, and visualization. In this project, I did three tasks. (1) Predicted calories using fat, cholesterol, and carbohydrate by using linear regression. (2) Analyzed the nutrients present in a food to know which nutrients are abundant on foods that are good for people with ulcer. (3)  Selected foods with high protein per calorie and analyzed its correlation on fat and cholesterol<br>
 **Key Learnings**: *Linear Regression*, *visualization*, *correlation*, *acquiring domain knowledge*, *analysis*, *data cleaning*
