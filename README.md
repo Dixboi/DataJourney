@@ -7,15 +7,20 @@
 ## Projects
 
 ### Identifying Ulothrix
+![image](https://user-images.githubusercontent.com/59426458/172799393-581b172b-95d3-48df-833c-4448e3f57562.png)<br>
+
 A classification project to identify if a microorganism is an Ulothrix or not. Here, I applied balancing techniques such as undersampling and oversampling. Additionally, I applied stacking where I used Random Forest Classifier and XGBoost as base classifiers and Logistic Regression for the meta-classifier. <br>
 **Key Learnings**: *Ensemble Models*, *Stacking*, *oversampling*, *undersampling* <br>
 **Link**: [Kaggle Notebook](https://www.kaggle.com/code/raimondextervinluan/microbes-notebook-ulothrix-or-nah#Stacked-Model)
 
 ### Nutrition
+![image](https://user-images.githubusercontent.com/59426458/172799096-2c227fe8-a735-43f5-9154-f9f38c194c88.png)
+![image](https://user-images.githubusercontent.com/59426458/172799142-069f5452-8275-428d-9185-ff448339c46c.png)<br>
 A project where I applied regression, data correlation, and visualization. In this project, I did three tasks. (1) Predicted calories using fat, cholesterol, and carbohydrate by using linear regression. (2) Analyzed the nutrients present in a food to know which nutrients are abundant on foods that are good for people with ulcer. (3)  Selected foods with high protein per calorie and analyzed its correlation on fat and cholesterol<br>
 **Key Learnings**: *Linear Regression*, *visualization*, *correlation*, *acquiring domain knowledge*, *analysis*, *data cleaning*
 
 ### Fetal Health
+![image](https://user-images.githubusercontent.com/59426458/172798780-622ab3f4-92a1-465c-a673-4e5a39bb675e.png)<br>
 A classification project to determine the health of a fetus. In this project, I use permutation importance to know which features are useful for classifying the fetus health and applied Logistic Regression for prediction. <br>
 **Key Learnings**: *Logistic Regression*, *classification*, *baseline model*, *permutation importance*
 
